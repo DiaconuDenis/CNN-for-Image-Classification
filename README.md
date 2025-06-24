@@ -1,11 +1,6 @@
 # CNN-for-Image-Classification
 Image classification model using a Convolutional Neural Network (CNN) in PyTorch, trained on the CIFAR-10 dataset.
 
-Absolut! Este o idee excelentă să ai fișierul README.md în engleză, mai ales că GitHub este o platformă globală și îți va permite să-ți prezinți proiectul unui public mult mai larg.
-
-Iată o propunere pentru fișierul README.md în limba engleză, adaptată descrierii proiectului tău:
-
-Convolutional Neural Network (CNN) for CIFAR-10 Image Classification
 Project Description
 This project showcases the implementation and training of a Convolutional Neural Network (CNN) using PyTorch for the task of image classification on the CIFAR-10 dataset. The primary goal was to explore the practical application of deep learning in computer vision and achieve a reasonable performance on a standard benchmark dataset.
 
